@@ -16,4 +16,4 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 - Sobczyk (2021): Nested coordinate systems [2](https://arxiv.org/pdf/2101.00976.pdf)
 - Hestenes (2015): Tutorial [3](https://www.youtube.com/watch?v=ItGlUbFBFfc)
 - Dorst (2010): Geometric Algebra for Computer Science [4](https://cs.uwaterloo.ca/~smann/GA/someanswers.pdf)
-- Dorst (2019): Marquardt Levenberg algorithm [5](https://www.researchgate.net/profile/Steven-De-Keninck/publication/333704791_Geometric_Algebra_Levenberg-Marquardt/links/60f6fff3fb568a7098c3c633/Geometric-Algebra-Levenberg-Marquardt.pdf)
+- Dorst (2019): Marquardt Levenberg algorithm [5](https://www.researchgate.net/profile/Steven-De-Keninck/publication/333704791_Geometric_Algebra_Levenberg-Marquardt/links/60f6fff3fb568a7098c3c633/Geometric-Algebra-Levenberg-Marquardt.pdf) using automatic differentiation based on Dual Numbers
