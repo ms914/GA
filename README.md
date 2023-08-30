@@ -1,6 +1,6 @@
 # GA
 
-GA destroys common conceptions of matrix algebra, calculus and curve fitting
+GA destroys common conceptions of matrix algebra, calculus and curve fitting in euclidean space with coordinates
 
 - deep relations in between multivariate calculus and projective geometry: regression, regularization, normal equations
 - differentials define linear, adjoint
