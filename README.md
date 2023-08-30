@@ -1,6 +1,7 @@
 # GA
 
 - differentials define linear, adjoint
+- matrix algebra is subalgebra to GA; $a_{ik}=e_i \dot a_k$
 - Tensors defined as frame independent linear function
 - nothing special with Paulis
 - python: clifford, galgebra 
