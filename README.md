@@ -2,7 +2,7 @@
 
 GA destroys common conceptions of matrix algebra, calculus and curve fitting in euclidean space with coordinates
 
-- deep relations in between multivariate calculus and projective geometry: regression, regularization, normal equations
+- deep relations in between multivariate calculus and projective geometry: regression, regularization, normal equations, jacobian, hessian
 - differentials define linear, adjoint
 - matrix algebra is subalgebra to GA; $a_{ik}=e_i \dot a_k$ as a inner product of two n-vectors and determinants as expansions -> Cramers rule to solve Ax=b (which is usually taught to be solved by Gaussian matrix algorithm, but can be solved with $A^{-1}=\frac{adj(A)}{det(A)})
 - Tensors defined as frame independent linear function
