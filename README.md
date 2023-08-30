@@ -17,3 +17,8 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 - Hestenes (2015): Tutorial [3](https://www.youtube.com/watch?v=ItGlUbFBFfc)
 - Dorst (2010): Geometric Algebra for Computer Science [4](https://cs.uwaterloo.ca/~smann/GA/someanswers.pdf)
 - Dorst (2019): Marquardt Levenberg algorithm [5](https://www.researchgate.net/profile/Steven-De-Keninck/publication/333704791_Geometric_Algebra_Levenberg-Marquardt/links/60f6fff3fb568a7098c3c633/Geometric-Algebra-Levenberg-Marquardt.pdf) using automatic differentiation based on Dual Numbers and presents to use the outer product instead of Gaussian elimination
+
+# PGA
+
+in PGA, each plane is described by a 1-vector, and if there exists one solution, they intersect
+In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vectors
