@@ -26,4 +26,6 @@ In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vecto
 # Lie Algebras as the essence of physics, symplectic manifolds
 
 - the SU2 spin group has a Lie algebra which is quantum mechanics, spinors are included in GA
-- classical physics has something with the symplectic group and it's Lie Algebra 
+- classical physics has something with the symplectic group and it's Lie Algebra
+- Hestenes develops classical mechanics coordinate free and spinors play the same role in classical mechanics for rotational dynamics as in quantum mechanics
+- electrodynamics reduces to one formula with the Dirac operator (?) and folds into the 4 Maxwell equations when a coordinate system is added 
