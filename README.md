@@ -22,3 +22,8 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 
 in PGA, each plane is described by a 1-vector, and if there exists one solution, they intersect
 In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vectors
+
+# Lie Algebras as the essence of physics, symplectic manifolds
+
+- the SU2 spin group has a Lie algebra which is quantum mechanics, spinors are included in GA
+- classical physics has something with the symplectic group and it's Lie Algebra 
