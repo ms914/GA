@@ -20,6 +20,10 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 
 # PGA
 
+# Symplectic structure and GA
+- Stefan Goessner (2021): https://www.researchgate.net/publication/356781838_Symplectic_Geometry_meets_Geometric_Algebra_in_2D
+- 
+
 in PGA, each plane is described by a 1-vector, and if there exists one solution, they intersect
 In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vectors
 
