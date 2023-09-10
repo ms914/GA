@@ -18,12 +18,9 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 - Dorst (2010): Geometric Algebra for Computer Science [4](https://cs.uwaterloo.ca/~smann/GA/someanswers.pdf)
 - Dorst (2019): Marquardt Levenberg algorithm [5](https://www.researchgate.net/profile/Steven-De-Keninck/publication/333704791_Geometric_Algebra_Levenberg-Marquardt/links/60f6fff3fb568a7098c3c633/Geometric-Algebra-Levenberg-Marquardt.pdf) using automatic differentiation based on Dual Numbers and presents to use the outer product instead of Gaussian elimination
 
+
+
 # PGA
-
-# Symplectic structure and GA
-- Stefan Goessner (2021): https://www.researchgate.net/publication/356781838_Symplectic_Geometry_meets_Geometric_Algebra_in_2D
-- 
-
 in PGA, each plane is described by a 1-vector, and if there exists one solution, they intersect
 In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vectors
 
@@ -32,4 +29,10 @@ In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vecto
 - the SU2 spin group has a Lie algebra which is quantum mechanics, spinors are included in GA
 - classical physics has something with the symplectic group and it's Lie Algebra
 - Hestenes develops classical mechanics coordinate free (matrix formulation free) and spinors play the same role in classical mechanics for rotational dynamics as in quantum mechanics
-- electrodynamics reduces to one formula with the Dirac operator (?) and folds into the 4 Maxwell equations when a coordinate system is added 
+- electrodynamics reduces to one formula with the Dirac operator (?) and folds into the 4 Maxwell equations when a coordinate system is added
+
+# Symplectic structure and GA
+- Stefan Goessner (2021): https://www.researchgate.net/publication/356781838_Symplectic_Geometry_meets_Geometric_Algebra_in_2D
+
+- GA makes sin and cos dissapear from formulas. cos measures angles, sin measures areas. Symplectic geometry measures areas only.
+
