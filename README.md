@@ -36,3 +36,6 @@ In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vecto
 
 - GA makes sin and cos dissapear from formulas. cos measures angles, sin measures areas. Symplectic geometry measures areas only.
 
+# Multivariate Calculus (MIT class 18.02)
+- Derivatives = Linear Algebra https://www.youtube.com/watch?v=-l7JHalBubw
+- a Norm is needed to throw away higher order terms
