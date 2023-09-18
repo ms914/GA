@@ -39,3 +39,6 @@ In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vecto
 # Multivariate Calculus (MIT class 18.02)
 - Derivatives = Linear Algebra https://www.youtube.com/watch?v=-l7JHalBubw
 - a Norm is needed to throw away higher order terms
+- automatic differentiation with common software like julia
+- a vector space is needed and matrix algebra
+- GA allows to drop the matrices via the geometric product (Dorst)
