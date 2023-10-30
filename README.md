@@ -19,6 +19,7 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 - Dorst (2019): Marquardt Levenberg algorithm [5](https://www.researchgate.net/profile/Steven-De-Keninck/publication/333704791_Geometric_Algebra_Levenberg-Marquardt/links/60f6fff3fb568a7098c3c633/Geometric-Algebra-Levenberg-Marquardt.pdf) using automatic differentiation based on Dual Numbers and presents to use the outer product instead of Gaussian elimination
 - Chisolm (2012): Geometric Algebra [6](https://arxiv.org/abs/1205.5935)
 - Horn (2014): Geometric meaning of QM [7](https://iopscience.iop.org/article/10.1088/1742-6596/538/1/012010/pdf)
+- Holmer (2023): Why can't you multiply vectors [8](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 
 
 
