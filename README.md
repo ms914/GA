@@ -46,3 +46,6 @@ In PGA, Ax=b then is just an n-vector formed by the outer product of the 1-vecto
 - a vector space is needed and matrix algebra -> Jacobian
 - GA allows to drop the matrices via the -> Jacobian via PGA geometric product (Dorst)
 - f: R->R is replaced by dual numbers f:D->D
+
+# Applications
+- Stress Analysis with quaternions: https://academicjournals.org/article/article1380539840_Okay.pdf
