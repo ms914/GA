@@ -20,6 +20,7 @@ GA destroys common conceptions of matrix algebra, calculus and curve fitting in 
 - Chisolm (2012): Geometric Algebra [6](https://arxiv.org/abs/1205.5935)
 - Horn (2014): Geometric meaning of QM [7](https://iopscience.iop.org/article/10.1088/1742-6596/538/1/012010/pdf)
 - Holmer (2023): Why can't you multiply vectors [8](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
+- Chappell(2016): The vector algebra war [9](https://arxiv.org/pdf/1509.00501.pdf)
 
 
 
